@@ -1,0 +1,14 @@
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\bin\Debug\net10.0\Charla.exe
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\bin\Debug\net10.0\Charla.deps.json
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\bin\Debug\net10.0\Charla.runtimeconfig.json
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\bin\Debug\net10.0\Charla.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\bin\Debug\net10.0\Charla.pdb
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0\Charla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0\Charla.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0\Charla.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0\Charla.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0\Charla.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0\refint\Charla.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0\Charla.pdb
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0\Charla.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0\ref\Charla.dll

@@ -1,0 +1,38 @@
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\bin\Debug\net10.0-windows\Charla.exe
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\bin\Debug\net10.0-windows\Charla.deps.json
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\bin\Debug\net10.0-windows\Charla.runtimeconfig.json
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\bin\Debug\net10.0-windows\Charla.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\bin\Debug\net10.0-windows\Charla.pdb
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\Charla.Escenario_2.resources
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\Charla.Escenario_3.resources
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\Charla.Escenario_1.resources
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\Charla.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\Charla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\Charla.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\Charla.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\Charla.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\Charla.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\refint\Charla.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\Charla.pdb
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\Charla.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\obj\Debug\net10.0-windows\ref\Charla.dll
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Charla\bin\Debug\net10.0-windows\config.xml
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\bin\Debug\net10.0-windows\Charla.exe
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\bin\Debug\net10.0-windows\config.xml
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\bin\Debug\net10.0-windows\Charla.deps.json
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\bin\Debug\net10.0-windows\Charla.runtimeconfig.json
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\bin\Debug\net10.0-windows\Charla.dll
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\bin\Debug\net10.0-windows\Charla.pdb
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\Charla.Escenario_2.resources
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\Charla.Escenario_3.resources
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\Charla.Escenario_1.resources
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\Charla.csproj.GenerateResource.cache
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\Charla.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\Charla.AssemblyInfoInputs.cache
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\Charla.AssemblyInfo.cs
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\Charla.csproj.CoreCompileInputs.cache
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\Charla.dll
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\refint\Charla.dll
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\Charla.pdb
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\Charla.genruntimeconfig.cache
+D:\REPOS GIT\Charla sobre Watch Expressions\Charla\obj\Debug\net10.0-windows\ref\Charla.dll
